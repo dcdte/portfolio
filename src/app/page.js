@@ -5,7 +5,7 @@ import VantaBackground from "./components/VantaBackground";
 export default function Home() {
   return (
     <div className=" relative ">
-      <VantaBackground />
+      {/* <VantaBackground /> */}
       <main className="p-4 flex flex-col gap-4 h-screen">
         <Header />
         <div className="flex-1">
