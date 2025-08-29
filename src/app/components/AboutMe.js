@@ -3,7 +3,7 @@ import Foto from "../assets/foto.png";
 
 export default function AboutMe() {
   return (
-    <sidebar className="flex flex-col w-full justify-between py-3 px-3 background-blur rounded-4xl font-roboto-condensed rounded-2xl bg-white/10 backdrop-blur-sm border border-white/20 shadow-lg h-full">
+    <sidebar className="flex flex-col w-full justify-between py-3 px-3 font-roboto-condensed ">
       <div className="flex justify-between items-start w-full gap-3">
         <div className="rounded-3xl overflow-hidden bg-gradient-to-b from-[#01b9bd]/10 to-[#01b9bd]/0 min-w-[300px]">
           <Image src={Foto} alt="Foto" className="mask-b-from-85%" />
