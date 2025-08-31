@@ -2,8 +2,8 @@ import * as React from "react";
 const IconJavaScript = (props) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
-    width="1em"
-    height="1em"
+    width="3em"
+    height="3em"
     viewBox="0 0 1052 1052"
     {...props}
   >

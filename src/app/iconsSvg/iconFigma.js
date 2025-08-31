@@ -1,8 +1,8 @@
 import * as React from "react";
 const IconFigma = (props) => (
   <svg
-    width="1em"
-    height="1em"
+    width="3em"
+    height="3em"
     viewBox="0 0 54 80"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"

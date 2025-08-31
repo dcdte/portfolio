@@ -4,8 +4,8 @@ const IconTailwindCSS = (props) => (
     xmlns="http://www.w3.org/2000/svg"
     fill="none"
     viewBox="0 0 54 33"
-    width="1em"
-    height="1em"
+    width="3em"
+    height="3em"
     {...props}
   >
     <g clipPath="url(#tailwindcss__a)">

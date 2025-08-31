@@ -3,8 +3,8 @@ const IconMongoDB = (props) => (
   <svg
     viewBox="0 0 256 549"
     xmlns="http://www.w3.org/2000/svg"
-    width="1em"
-    height="1em"
+    width="3em"
+    height="3em"
     preserveAspectRatio="xMidYMid"
     {...props}
   >

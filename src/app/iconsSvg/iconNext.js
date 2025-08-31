@@ -1,8 +1,8 @@
 import * as React from "react";
 const IconNextjs = (props) => (
   <svg
-    width="1em"
-    height="1em"
+    width="3em"
+    height="3em"
     viewBox="0 0 180 180"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
