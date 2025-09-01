@@ -90,7 +90,7 @@ export default function Tecnologies() {
 
   return (
     <div className="">
-      <h2 className="text-2xl font-semibold text-center font-roboto-condensed tracking-wide">
+      <h2 className="text-2xl font-semibold text-center font-roboto-condensed tracking-wide mb-4">
         Tecnologías
       </h2>
       <div
